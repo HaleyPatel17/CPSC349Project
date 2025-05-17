@@ -543,8 +543,15 @@ input[type=submit] {
     }
 
     .habitflow-mainpage {
-        width: 80%;
-        margin: 2rem;
+        width: 100%;
+        float: none;
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .habit-second {
+        margin: 10%;
+        text-align: center;
     }
 
 
