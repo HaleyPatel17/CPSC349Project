@@ -545,7 +545,8 @@ input[type=submit] {
     .habitflow-mainpage {
         width: 80%;
         float: none;
-        margin: auto;
+        margin-left: 10%;
+        margin-right: 10%;
     }
 
     .habit-second {
