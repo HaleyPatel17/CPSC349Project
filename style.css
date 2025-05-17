@@ -556,6 +556,10 @@ input[type=submit] {
         margin: auto;
         width: 75%;
     }
+
+    .fill-corner {
+        display: none;
+    }
     
 }
 
