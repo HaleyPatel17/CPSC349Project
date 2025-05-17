@@ -528,6 +528,10 @@ input[type=submit] {
         margin: 0 auto;
     }
 
+    .habitflow-title {
+        font-size: 50px;
+    }
+
     .project-habit, .project-track{
         width: 90%;
         margin-bottom: 2rem;
