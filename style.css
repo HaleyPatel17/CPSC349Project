@@ -537,9 +537,14 @@ input[type=submit] {
         margin-bottom: 2rem;
     }
 
-    .habitflow-homepage, .habitflow-mainpage {
+    .habitflow-homepage {
         width: 80%;
         margin-bottom: 2rem;
+    }
+
+    .habitflow-mainpage {
+        width: 80%;
+        margin: 2rem;
     }
 
 
